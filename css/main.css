@@ -17,10 +17,43 @@ body {
 
 li {
     list-style: none;
+}
+
+div {
+    font-size: 20px;
     text-align: center;
-    border: 1px black solid;
     width: 100px;
     height: 100px;
     margin-left: 20px;
+}
+
+li {
+    position: absolute;
+    width: 500px;
+    display: list-item; 
+}
+
+div:hover{
+    display: table-cell;
+    animation-duration: 3s;
+    float: ;
+           }
     
-    }
+.caja1 {
+    background: #47c0e5;
+    
+          }
+
+.caja2 {
+    background: #4add9f;
+
+   
+}
+
+.caja3  {
+    background: #e5ae47;
+}
+
+.caja4 {
+    background: #f2748c;
+}
