@@ -40,11 +40,12 @@ a:hover {
     padding-left: 110px;
 }
 
-
 a:hover span {
     background: black;
     color: inherit;
+    padding: 4px 30px;
 }
+
 span{
     padding-right: 60px;
     position:relative;
